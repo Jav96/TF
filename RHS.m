@@ -35,6 +35,8 @@ Charge = -1.6e-19;
 
 %% Solving equations %% 
 for i = 1:length(Pos_cells)
+    if i = 1
+        x0 = [Vel_per,Beta,Vel_z,Pos_cells
     
 
 
