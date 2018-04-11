@@ -33,3 +33,10 @@ Charge = -1.6e-19;
 
 
 
+%% Solving equations %% 
+for i = 1:length(Pos_cells)
+    
+
+
+
+
